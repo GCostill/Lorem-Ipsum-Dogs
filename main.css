@@ -1,0 +1,73 @@
+nav{
+    font-size: 20px;
+}
+
+#imgLogo{
+    width: 80px;
+}
+
+.navbar-collapse{
+    justify-content: end;
+}
+
+.d-block{
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+
+.carousel-control-prev:hover, .carousel-control-next:hover{
+    background-color: rgba(141, 141, 141, .5);
+}
+.textBody{
+    margin: 50px;
+}
+
+.accordion{
+    margin: 50px;
+}
+
+.footer{
+    padding: 10px 70px;
+    background-color: #e2e2e2;
+}
+
+.bestOfImg{
+    width: 60%;
+}
+
+.footerIcons{
+    width: 18%;
+}
+
+.uvShield{
+    margin-top: 15px;
+    width: 35%;
+}
+
+#dogInRoom{
+    width: 30%;
+}
+
+#groomingDog{
+    width: 40%;
+}
+
+#daycareDogs{
+    width: 40%;
+}
+
+.galleryImages{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin: 5px;
+}
+
+#photoGalleryBackToTop{
+    margin: 20px 30px;
+    display: flex;
+    justify-content: end;
+    position:sticky;
+    bottom: 20px;
+}
